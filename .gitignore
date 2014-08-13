@@ -1,0 +1,8 @@
+*.log
+*.pot
+*.pyc
+demo.db
+test.ipynb
+notes.md
+codecamp
+quickstart
